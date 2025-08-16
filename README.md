@@ -24,7 +24,7 @@ Diller: Türkçe (Ana dil), İngilizce (B1)
 
 **🎯 Eğitim Kapsamı:**
 - UI Test Otomasyonu ve Web Testing metodolojileri
-- API Testing (REST/SOAP) ve veritabanı testleri
+- API Testing REST ve veritabanı testleri
 - Mobile Testing ve cross-platform test stratejileri
 - Database Testing ve SQL test senaryoları
 - Test Otomasyonu framework'leri
