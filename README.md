@@ -179,7 +179,7 @@ Diller: Türkçe (Ana dil), İngilizce (B1)
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views"/>
+  
   
   **"Kalite bir eylem değil, bir alışkanlıktır." - Aristoteles**
   
