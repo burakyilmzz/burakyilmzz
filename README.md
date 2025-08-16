@@ -127,7 +127,7 @@ Diller: Türkçe (Ana dil), İngilizce (B1)
 ## 💼 Çalışma Deneyimi & Projeler
 
 ### **Okul Yönetim Sistemi Projesi**
-- **Rol:** Test Engineer
+- **Rol:** Yazılım Test Otomasyon Mühendisi 
 - **Sorumluluklar:** 
   - Web tabanlı sistemde backend ve veritabanı testleri
   - SQL sorguları ile veri doğrulama
@@ -135,7 +135,7 @@ Diller: Türkçe (Ana dil), İngilizce (B1)
   - Test senaryoları düzenleme ve oluşturma
 
 ### **To-Do List API Otomasyonu**
-- **Rol:** API Test Specialist  
+- **Rol:** API Test Uzmanı  
 - **Sorumluluklar:**
   - JSON/XML tabanlı API testleri
   - REST Assured ile otomasyon framework
@@ -153,11 +153,11 @@ Diller: Türkçe (Ana dil), İngilizce (B1)
 
 ## 🤝 Kişisel Beceriler
 
-- **🧠 Analitik Düşünme:** Karmaşık problemleri çözme yeteneği
-- **🔍 Hata Tespiti:** Detaylı test analizi ve bug reporting
-- **📋 Süreç İyileştirme:** Test metodolojilerini optimize etme
-- **👥 Takım Çalışması:** Agile/Scrum süreçlerinde colaborasyon
-- **⏱️ Zaman Yönetimi:** Proje deadlinelerında etkili çalışma
+- **🧠 Analitik Düşünme:** Karmaşık problemleri analiz ederek etkili çözümler geliştirme
+- **🔍 Hata Tespiti:** Detaylı test analizi yapma ve hataları doğru şekilde raporlama
+- **📋 Süreç İyileştirme:** Test metodolojilerini optimize ederek kaliteyi ve verimliliği artırma
+- **👥 Takım Çalışması:** Agile/Scrum süreçlerinde etkin iletişim ve iş birliği
+- **⏱️ Zaman Yönetimi:** Proje teslim tarihlerine uygun, planlı ve verimli çalışma
 
 ## 📞 İletişim
 
