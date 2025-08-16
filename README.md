@@ -18,7 +18,7 @@ Diller: Türkçe (Ana dil), İngilizce (B1)
 ## 🎓 Eğitim & Sertifikalar
 
 **📚 Yazılım Test Mühendisliği Sertifikası (250 saat)**
-- **Kurum:** Yıldız Teknopark - Üniversite Academy
+- **Kurum:** Yıldız Teknopark - Unityverse Academy
 - **Odak:** İstihdam Odaklı Yazılım Geliştirme ve Eğitimi
 - **Akademik Partner:** Yıldız Teknik Üniversitesi
 
